@@ -25,5 +25,5 @@ There are lot of wonderful places to visit in United State but I wish to visit t
 
 ---
 # Pithy Quotes
-> teach us to give and not count the cost- ST.Ignatiur de loyola
+> teach us to give and not count the cost- ST.Ignatiur de loyola  
 > work harder than you think you did yesterday- Geoffrey chaucher
