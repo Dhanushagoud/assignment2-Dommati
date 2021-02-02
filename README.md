@@ -22,3 +22,8 @@ There are lot of wonderful places to visit in United State but I wish to visit t
 | Los Angeles 	| 10     	| $1000 	|
 | Florida     	| 12     	| $1500 	|
 | Newyork     	| 10     	| $700  	|
+
+---
+# Pithy Quotes
+> teach us to give and not count the cost- ST.Ignatiur de loyola
+> work harder than you think you did yesterday- Geoffrey chaucher
