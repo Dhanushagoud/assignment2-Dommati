@@ -13,6 +13,10 @@ Rasam is a **South Indian** spiced soup made with tamarind, tomatoes, spices and
 * put them in plastic bags to let the dyes set
 8. leave them 6-8 hours or  left them overnight
 
+![Tshirt dyeing](image/td1.PNG)
+![Tshirt dyeing](image/td2.PNG)
+![Tshirt dyeing](image/td3.PNG)
+
 ---
 # My Favorite places to visit
 There are lot of wonderful places to visit in United State but I wish to visit these places because there are my favorite miami beach it has deep sea fishing-reward fleet.universal studios hollywood in Los Angeles and Disney world in the Florida.Empire state building in Newyork
@@ -22,6 +26,11 @@ There are lot of wonderful places to visit in United State but I wish to visit t
 | Los Angeles 	| 10     	| $1000 	|
 | Florida     	| 12     	| $1500 	|
 | Newyork     	| 10     	| $700  	|
+
+![Fav place](image/miami.PNG)
+![Fav place](image/losangeles.PNG)
+![Fav place](image/Florida.PNG)
+![Fav place](image/newyork.PNG)
 
 ---
 # Pithy Quotes
