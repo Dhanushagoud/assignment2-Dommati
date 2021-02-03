@@ -49,3 +49,5 @@ number     ::= [+-]?['0'-'9']+
 symbol     ::= ['A'-'Z''a'-'z'].*
 list       ::= '(' expression* ')'
 ```
+
+<https://en.wikipedia.org/wiki/Programming_language#Syntax>
