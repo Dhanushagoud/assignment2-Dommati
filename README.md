@@ -12,7 +12,7 @@ Rasam is a **South Indian** spiced soup made with tamarind, tomatoes, spices and
 * Put the dyes in squirt bottles start squirting the dyes on the shirt.
 * put them in plastic bags to let the dyes set
 8. leave them 6-8 hours or  left them overnight
-
+[Link to about me](Aboutme.md)
 ![Tshirt dyeing](images/td1.PNG)
 ![Tshirt dyeing](images/td2.PNG)
 ![Tshirt dyeing](images/td3.PNG)
@@ -48,6 +48,6 @@ atom       ::= number | symbol
 number     ::= [+-]?['0'-'9']+
 symbol     ::= ['A'-'Z''a'-'z'].*
 list       ::= '(' expression* ')'
-```
+``` 
 
 <https://en.wikipedia.org/wiki/Programming_language#Syntax>
